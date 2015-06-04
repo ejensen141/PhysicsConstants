@@ -20,7 +20,7 @@ this installs the software in your gcc include folder
 
 then you can use 
 ```c++
-#include <physics_const.h>
+#include <PhysicsConstants.h>
 ```
 
 
