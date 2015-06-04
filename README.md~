@@ -4,10 +4,7 @@
 Physics Constants Header Files
 Set of Physics Constants put into one 
 c++ header file for easy inclusion into your project!
-
-Released under GNU Public Licence
-Free to use and distrubute....
-
+#Usage
 to use the file in a project simply 
 ```c++
 #include "PhysicsConstants.h"
